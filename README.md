@@ -21,3 +21,7 @@ A Netflix-style streaming web application built using **React**, **Node.js**, an
 ### 1. Install dependencies
 ```bash
 npm install
+```
+### 2. run
+```bash
+npm run dev
